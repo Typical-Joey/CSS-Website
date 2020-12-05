@@ -93,14 +93,21 @@ hr {
   margin-left: 30px;
 }
 
+.mountain-img{
+  width: auto;
+  height: auto;
+}
+
 .top-cloud {
   position: absolute;
+  width: auto;
   right: 300px;
   top: 50px;
 }
 
 .bottom-cloud {
   position: absolute;
+  width: auto;
   bottom: 300px;
   left: 300px;
 }
